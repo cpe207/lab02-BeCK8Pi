@@ -1,0 +1,33 @@
+body {
+    background-color: whitesmoke;
+}
+
+a {
+    text-decoration: none;
+}
+
+button {
+    width: 200px;
+    text-align: center;
+    font-size: 200%;
+    color: blue;
+    background-color: rgb(255, 0, 0);
+    cursor: pointer;
+}
+
+.info {
+    text-align: left;
+    font-size: 50px;
+    margin-left: 2%;
+}
+
+.myFace {
+    vertical-align: middle;
+    float: left;
+    width: 400px;
+    border-radius: 50%;
+}
+
+.next {
+    margin-left: 18%;
+}
