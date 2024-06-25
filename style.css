@@ -1,0 +1,65 @@
+body {
+    background-color: rgb(48, 48, 48);
+}
+
+a {
+    text-decoration: none;
+    color: rgb(0, 255, 20);
+}
+
+button {
+    width: 200px;
+    text-align: center;
+    font-size: 200%;
+    color: blue;
+    background-color: white;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: blue;
+    color: white;
+}
+
+.info {
+    border: solid aqua;
+    text-align: left;
+    font-size: 300%;
+    margin-left: 20%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-right: 50%;
+    color: gold;
+}
+
+.myFace {
+    vertical-align: middle;
+    margin-left: 2%;
+    float: left;
+    width: 15%;
+    border-radius: 50%;
+}
+
+.box{
+    border: solid aqua;
+    margin-left: 10%;
+}
+
+.skill {
+    width: 40%;
+    font-size: 200%;
+    margin-left: 5%;
+    padding: 1%;
+    margin-bottom: 1%;
+    color: gold;
+}
+
+.skill > h2 {
+    font-style: italic;
+    color: springgreen;
+}
+
+.exp {
+    width: 30%;
+    margin-left: 6.5%;
+}
